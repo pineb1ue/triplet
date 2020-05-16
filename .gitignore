@@ -1,3 +1,16 @@
+# weights
+*.pth
+runs/*
+# images
+*.png
+*.jpg
+!diff.jpg
+# text file
+*.csv
+*.json
+# jupyter notebook
+*.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
